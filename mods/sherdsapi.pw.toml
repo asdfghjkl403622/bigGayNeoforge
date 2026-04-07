@@ -1,0 +1,13 @@
+name = "Sherds API"
+filename = "sherdsapi-neoforge-1.21.1-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nOUYhAZV/versions/pt2GMZW6/sherdsapi-neoforge-1.21.1-6.0.2.jar"
+hash-format = "sha512"
+hash = "6b865ce06ac2addd773557776559634747d8ce291b2f2ac9b355e2be0c7f65aefab2998fd894d86a5b493b5b80e6a1176651abb83507d5011c16210e7da7ba02"
+
+[update]
+[update.modrinth]
+mod-id = "nOUYhAZV"
+version = "pt2GMZW6"

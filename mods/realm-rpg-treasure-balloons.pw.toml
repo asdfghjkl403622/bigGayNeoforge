@@ -1,0 +1,13 @@
+name = "Realm RPG: Treasure Balloons"
+filename = "realmrpg_balloons-0.9.1-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/slMy2SdH/versions/PMpWyC0l/realmrpg_balloons-0.9.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "8c7c49402109ef7fed973d8f680f79cdb2fc061ed575bb96aacd06724d151e59007c3bc87c3362191e0c876e12e9107ee8cb1c7f5a7e8f54492a410e7338b038"
+
+[update]
+[update.modrinth]
+mod-id = "slMy2SdH"
+version = "PMpWyC0l"

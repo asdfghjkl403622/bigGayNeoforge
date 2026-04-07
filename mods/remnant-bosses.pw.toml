@@ -1,0 +1,13 @@
+name = "Remnant Bosses"
+filename = "remnant-bosses-2.0.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/coZxDAGe/versions/qqNhtbzF/remnant-bosses-2.0.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "ae7e4fed5252c2b9c3b49566b44743ec20241f82d25e85986b551eb478f5109bfdc0b2e3fd8c74d1e1a7f29b4a2768f5c1619fb023ef0ef329f5e96447767f5b"
+
+[update]
+[update.modrinth]
+mod-id = "coZxDAGe"
+version = "qqNhtbzF"

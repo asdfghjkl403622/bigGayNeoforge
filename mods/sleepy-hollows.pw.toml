@@ -1,0 +1,13 @@
+name = "Sleepy Hollows"
+filename = "sleepyhollows-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d7LLnfx8/versions/z7Qdl7aN/sleepyhollows-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "7d4f12bfb80bc913331f7668ccccf33a76d9426eb94a2a5e06a44dd9b5003900740b6aac1fc618ec6cbe2047c67e7eed34d0fcf64c1b45898258cc9d8d25f4e3"
+
+[update]
+[update.modrinth]
+mod-id = "d7LLnfx8"
+version = "z7Qdl7aN"

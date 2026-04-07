@@ -1,0 +1,13 @@
+name = "Jauml"
+filename = "jauml-neoforge-1.21.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ihvBalM2/versions/9y4nHj30/jauml-neoforge-1.21.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "7a9812d9ff263ddbc179ba27e1af13e139bfc9e158b0c2ba0f84e689fd395880fdd404e33116dff7bc849ae8c57d1ee83239aebb4553aa6adf26442eb35aeb32"
+
+[update]
+[update.modrinth]
+mod-id = "ihvBalM2"
+version = "9y4nHj30"
