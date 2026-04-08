@@ -314,11 +314,6 @@ hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
 metafile = true
 
 [[files]]
-file = "mods/euphonium.pw.toml"
-hash = "54d39131b07120334ad896779402eb5a372a1bcba5e089a50a17329fe3f29aee"
-metafile = true
-
-[[files]]
 file = "mods/exclusions-lib.pw.toml"
 hash = "b755db273ddfbdafdbab2a2990188aa0e2ea88c842bd27aca5c61d42d3adfef9"
 metafile = true
