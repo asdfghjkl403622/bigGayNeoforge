@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "1dba12bf565a8111ceda9bf410467f5363078bf98eb47ecb3435f3b484dd121e"
+
+[[files]]
+file = "gaming.txt"
+hash = "8454b294454110e2e2b8a364f37288696a4544131d9bbbcbd83a146e99275393"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
