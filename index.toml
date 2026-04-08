@@ -251,6 +251,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/databank.pw.toml"
+hash = "beb789c1820089778351534cc926b5b0144a638b2ead5817faaf47ca131bfd6d"
+metafile = true
+
+[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "e3211d7d54a7203a183ed3b453be5dd52d27f389dbef26dd7e769f20e1dea81f"
 metafile = true
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/euphonium.pw.toml"
 hash = "54d39131b07120334ad896779402eb5a372a1bcba5e089a50a17329fe3f29aee"
+metafile = true
+
+[[files]]
+file = "mods/exclusions-lib.pw.toml"
+hash = "b755db273ddfbdafdbab2a2990188aa0e2ea88c842bd27aca5c61d42d3adfef9"
 metafile = true
 
 [[files]]
@@ -491,6 +501,11 @@ hash = "dd7ec3687553b3e83d76b72ca22ec84cb8f4e618585aeb972377c42a7d6ae72a"
 metafile = true
 
 [[files]]
+file = "mods/lodestone.pw.toml"
+hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
 metafile = true
@@ -516,8 +531,18 @@ hash = "e1427eb05d0ad74fa78eb306260923d402df0b98defee1e85c18a386fdc0fc02"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "4a40f089ec8944d5290ac5bb43037170603bda41de2d5af56a56a737f8341755"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "579103387e2bad8c05c78bff288bf8555349033856ae10c069296b04b06e5956"
 metafile = true
 
 [[files]]
@@ -578,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "9ffaf9a44c00156d1e613884271c8224db4cbf019e5d032d5b444bdba983122f"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "e8100d935e20369ed13b31ea2423482eadd4c8ed123fd8e77320b12fa883dbb6"
 metafile = true
 
 [[files]]
